@@ -156,7 +156,7 @@ jupyter notebook notebooks/Female_Owned_Enterprises_2030.ipynb
 ![EDA Analysis](images/01_EDA_Analysis.png)
 
 ### Forecast to 2030
-![Forecast 2030](images/02_Forecast_2030.png)
+![Forecast 2030](images/02_Forecast_2030 (1).png)
 
 ---
 
